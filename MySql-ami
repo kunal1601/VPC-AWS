@@ -15,8 +15,8 @@ Run following commands :
   mysql_secure_installation
 [Set password and set everything else Y]
   mysql -u root -p   <--Creating database
-  CREATE DATABASE `wp_db`;  [Can give any database name]
-  USE wp_db;
+  CREATE DATABASE Wordpress-db;  [Can give any name for database]
+  USE Wordpress_db;
   exit;
   
 After installing or complteing all the above steps. Now click on the 
